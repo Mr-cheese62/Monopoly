@@ -1,0 +1,12 @@
+#board{
+    position: absolute;
+    left: 30%;
+    top: 20%;
+}
+#player{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 1170px;
+    top: 670px;
+}
